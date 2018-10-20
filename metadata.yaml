@@ -1,5 +1,5 @@
 _repo: The-Stories-Mother-Nature-Told-Her-Children_5792
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QH'
 - !lcsh 'Natural history -- Juvenile literature'
+- GITenberg
 tableOfContents: The story of the amber beads -- The new life -- The talk of the trees
   that stand in the village street -- How the Indian corn grows -- Water-lilies --
   The carrying trade -- Sea-life -- What the frost giants did to Nannie's run -- How
